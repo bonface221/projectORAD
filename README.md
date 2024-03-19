@@ -41,7 +41,7 @@ Ensure that the MODE in the .env is set to development ('dev'), which will autom
 Now run the following command
 
 ```
-python3.9 manage.py runserver
+python3.11 manage.py runserver
 
 ```
 
